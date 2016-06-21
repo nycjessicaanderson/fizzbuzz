@@ -1,0 +1,2 @@
+# fizzbuzz
+practice with JavaScript
